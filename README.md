@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="kr">
 <head><title> Home - 똘이의 사진첩</title></head>
 <meta charset="utf-8">
@@ -53,6 +52,3 @@
                 <p>2024.03.24</p>
             </div>
         </div>
-</body>
-
-</html>
